@@ -43,5 +43,4 @@ The interface is designed using **Adobe Photoshop** and is intended to manage th
 ### A video demonstration of this project in action will be uploaded soon.
 
 
-
 ****
