@@ -1,7 +1,7 @@
 # Virtual Painter - Computer Vision ![Project Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBrunosCodeLab%2FVirtualPainter-ComputerVision&count_bg=%235C9CFF&title_bg=%23008FC9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/BrunosCodeLab/Images/refs/heads/main/VirtualPainter.png" alt="Banner" width="1080" />
+    <img src="https://raw.githubusercontent.com/BrunosCodeLab/Images/refs/heads/main/VirtualPainter-CV/VirtualPainter.png" alt="Banner" width="1080" />
 </div>
 
 ## Description
@@ -27,7 +27,7 @@ The interface is designed using **Adobe Photoshop** and is intended to manage th
 - **Eraser Tool**: The eraser tool is clearly displayed and becomes more visible when selected, making it easier for users to identify the active tool.
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/BrunosCodeLab/Images/refs/heads/main/VirtualPainter_Banner.png" alt="Banner" width="1080" />
+    <img src="https://raw.githubusercontent.com/BrunosCodeLab/Images/refs/heads/main/VirtualPainter-CV/VirtualPainter_Banner.png" alt="Banner" width="1080" />
 </div>
   
 
